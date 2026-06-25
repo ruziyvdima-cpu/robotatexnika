@@ -1,0 +1,6 @@
+{
+  "name": "RoboMaster Academy",
+  "description": "An interactive, full-stack multilingual educational platform (Uzbek, Russian, English) for learning robotics from 0% (beginner) to 100% (expert). Includes a level-based curriculum, interactive circuit and robot simulator, code playground, auto-graded quizzes, virtual certificate engine, simulated Telegram bot notifications, a community forum, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
